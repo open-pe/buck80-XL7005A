@@ -8,4 +8,4 @@
 * [XL7005A](https://www.lcsc.com/datasheet/lcsc_datasheet_1811081614_XLSEMI-XL7005A_C50848.pdf) controller IC
 * RC-Snubber
 
-<img src="pcb-3d-top.png" width=200 /> <img src="pcb-3d-bot.png" width=200 />
+<img src="pcb-3d-top.webp" width=200 /> <img src="pcb-3d-bot.webp" width=200 />

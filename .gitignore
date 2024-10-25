@@ -1,0 +1,10 @@
+
+buck80-backups/
+
+*.lck
+
+fp-info-cache
+
+*.png
+
+*.kicad_prl
